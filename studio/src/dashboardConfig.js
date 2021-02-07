@@ -18,10 +18,10 @@ export default {
                   apiId: '0a96f577-aaf6-4fb0-9537-8a0beac4bdec'
                 },
                 {
-                  buildHookId: '60171ab4d9325c829a81ccf5',
-                  title: 'Blog Website',
-                  name: 'sanity-gatsby-blog-web-97n7gd5z',
-                  apiId: '05a8eaf2-7a53-444c-a364-a00e7a9b0595'
+                  buildHookId: '602058555610f988ca4b1bf9',
+                  title: 'New Phase Blog',
+                  name: 'pedantic-borg-e76e04',
+                  apiId: '81721930-ca50-4e30-9797-70692da03580'
                 }
               ]
             }
